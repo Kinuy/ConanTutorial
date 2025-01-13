@@ -1,0 +1,12 @@
+# Visual Studio Studio
+/.vs
+**.sln
+**.vcxproj
+**.vcxproj.user
+
+# Conan
+/dependencies
+
+
+# Build output
+/build

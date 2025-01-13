@@ -1,0 +1,1 @@
+This Repo demonstrates a simple workflow to include 3rd. party dependencies in c++ project using conan to get and integrate dependencies, msvc to build the project and some python to include all steps in one workflow.
